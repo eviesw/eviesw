@@ -7,7 +7,6 @@ I'm an aspiring full-stack web developer.
 - 🌱 I’m currently: learning Web Development at DCI
 - 📫 How to reach me: [Email]
 - 😄 Pronouns: She/her
-- ⚡ Fun fact:
 
 ## 🛠️ Tech Stack:
 
