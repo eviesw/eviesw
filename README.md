@@ -5,13 +5,13 @@ I'm an aspiring full-stack web developer.
 ## 🚀 Quick Info:
 
 - 🌱 I’m currently: learning Web Development at DCI
-- 📫 How to reach me: [Email]
+- 📫 How to reach me: [Email](eviewilcock01@gmail.com)
 - 😄 Pronouns: She/her
 
 ## 🛠️ Tech Stack:
 
 - Languages: HTML, CSS, JavaScript
-- Frameworks/Libraries:
+- Frameworks/Libraries: Bootstrap, Tailwind
 - Tools/Platforms:
 
 ## 🌐 Connect with Me:
