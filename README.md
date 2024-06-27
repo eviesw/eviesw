@@ -18,7 +18,7 @@ I'm an aspiring full-stack web developer.
 
 - [LinkedIn](https://de.linkedin.com/in/evie-wilcock)
 - [Website](https://eviesw.github.io/portfolio-website/)
-- [Email]eviewilcock01@gmail.com
+- [Email](eviewilcock01@gmail.com)
 
 ## 📊 GitHub Stats:
 
