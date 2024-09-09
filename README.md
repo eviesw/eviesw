@@ -23,7 +23,7 @@ I'm an aspiring full-stack web developer.
 - [Email](eviewilcock01@gmail.com)
 
 ## 📊 GitHub Stats:
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=eviesw&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eviesw&layout=compact&theme=radical)
+
