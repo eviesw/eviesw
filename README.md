@@ -12,9 +12,20 @@ I'm an aspiring full-stack web developer.
 
 ## 🛠️ Tech Stack:
 
-- Languages: HTML, CSS, JavaScript
-- Frameworks/Libraries: Bootstrap, Tailwind
-- Tools/Platforms:
+### Languages:
+- HTML5  
+- CSS3 (including SASS)  
+- JavaScript (ES6+)  
+
+### Frameworks/Libraries:
+- React.js  
+- Next.js  
+- Bootstrap  
+- Tailwind CSS  
+
+### Tools/Platforms:
+- Version Control: Git, GitHub  
+- Build Tools: Webpack (used indirectly with Next.js), Vite  
 
 ## 🌐 Connect with Me:
 
