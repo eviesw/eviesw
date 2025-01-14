@@ -21,16 +21,26 @@ I'm an aspiring full-stack web developer.
 - React.js  
 - Next.js  
 - Bootstrap  
-- Tailwind CSS  
+- Tailwind CSS
+
+### Backend Development:
+- Node.js
+- Express.js
+- MongoDB (with Mongoose ORM)
 
 ### Tools/Platforms:
-- Version Control: Git, GitHub  
-- Build Tools: Webpack (used indirectly with Next.js), Vite  
+- Version Control: Git, GitHub
+- Build Tools: Webpack (used indirectly with Next.js), Vite
+- IDEs/Text Editors: VS Code, Sublime Text
+- Testing: API Testing Tools
+- Firebase
+- npm
+- Chrome DevTools
+- ChatGPT, Anthropic Claude, Cursor AI  
 
 ## 🌐 Connect with Me:
 
 - [LinkedIn](https://de.linkedin.com/in/evie-wilcock)
-- [Website](https://eviesw.github.io/my-portfolio-website/)
 - [Email](eviewilcock01@gmail.com)
 
 ## 📊 GitHub Stats:
