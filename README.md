@@ -5,7 +5,6 @@ I'm an aspiring full-stack web developer.
 ## 🚀 Quick Info:
 
 - 🌱 I’m currently: learning Web Development at DCI
-- 📫 How to reach me: [Email](eviewilcock01@gmail.com)
 - 🇬🇧 Where I'm from: Manchester, UK
 - 🇩🇪 Where I live: Leipzig, Germany
 - 😄 Pronouns: She/her
