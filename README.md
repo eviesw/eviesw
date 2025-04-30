@@ -1,13 +1,17 @@
-# 👋 Hello there! I'm Evie 👩‍💻
+# 👩‍💻 Evie Wilcock – Full-Stack Web Developer
 
-I'm an aspiring full-stack web developer.
+I'm a full-stack developer with a strong foundation in the MERN stack, currently focused on building accessible, modular, and user-focused web applications. I recently completed a 14-month coding course and am now working on personal projects while actively seeking my first developer role.
 
-## 🚀 Quick Info:
+---
 
-- 🌱 I’m currently: learning Web Development at DCI
-- 🇬🇧 Where I'm from: Manchester, UK
-- 🇩🇪 Where I live: Leipzig, Germany
-- 😄 Pronouns: She/her
+## 🔍 About Me
+
+- 🎓 **Recently completed** a full-stack web development course at DCI  
+- 🌍 **Based in** Leipzig, Germany (originally from Manchester, UK)  
+- 🧠 **Focused on** clean, maintainable code and real-world project experience  
+- 🗣️ **Pronouns**: she/her
+
+---
 
 ## 🛠️ Tech Stack:
 
