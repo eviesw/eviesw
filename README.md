@@ -2,7 +2,6 @@
 
 I'm a full-stack developer with a strong foundation in the MERN stack, currently focused on building accessible, modular, and user-focused web applications. I recently completed a 14-month coding course and am now working on personal projects while actively seeking my first developer role.
 
----
 
 ## 🔍 About Me
 
@@ -11,7 +10,7 @@ I'm a full-stack developer with a strong foundation in the MERN stack, currently
 - 🧠 **Focused on** clean, maintainable code and real-world project experience  
 - 🗣️ **Pronouns**: she/her
 
----
+
 
 ## 🛠️ Tech Stack:
 
