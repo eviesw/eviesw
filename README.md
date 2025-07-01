@@ -5,7 +5,7 @@ I'm a full-stack developer with a strong foundation in the MERN stack, currently
 
 ## 🔍 About Me
 
-- 🎓 **Recently completed** a full-stack web development course at DCI  
+- 💻 **Latest Project**  [The Greenroom](https://the-greenroom.onrender.com/)
 - 🌍 **Based in** Leipzig, Germany (originally from Manchester, UK)  
 - 🧠 **Focused on** clean, maintainable code and real-world project experience  
 - 🗣️ **Pronouns**: she/her
