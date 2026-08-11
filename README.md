@@ -4,15 +4,15 @@ Full-stack developer with a MERN foundation, currently working freelance on Word
 
 Open to developer roles alongside client work.
 
-![Location](https://img.shields.io/badge/Based%20in-Leipzig,%20Germany-2C3E50?style=for-the-badge) ![Pronouns](https://img.shields.io/badge/Pronouns-she/her-8E44AD?style=for-the-badge) ![Status](https://img.shields.io/badge/Open%20to-developer%20roles-27AE60?style=for-the-badge)
+![Location](https://img.shields.io/badge/Leipzig,%20Germany-8DA290?style=flat) ![Pronouns](https://img.shields.io/badge/she/her-B08D9E?style=flat) ![Status](https://img.shields.io/badge/Open%20to%20developer%20roles-8A9BB0?style=flat)
 
 ---
 
 ## About
 
-- **Sample of my work**: [The Greenroom](https://the-greenroom.onrender.com/)
-- **Currently building**: custom WordPress plugins, a subsidy calculator, and automation tooling
-- Originally from Manchester, UK
+→ **Sample of my work**: [The Greenroom](https://the-greenroom.onrender.com/)  
+→ **Currently building**: custom WordPress plugins, a subsidy calculator, and automation tooling  
+→ Originally from Manchester, UK
 
 ---
 
@@ -40,4 +40,4 @@ Open to developer roles alongside client work.
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/evie-wilcock) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eviewilcock01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A7BA7?style=flat&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/evie-wilcock) [![Email](https://img.shields.io/badge/Email-B08D9E?style=flat&logo=gmail&logoColor=white)](mailto:eviewilcock01@gmail.com)
