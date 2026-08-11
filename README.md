@@ -16,14 +16,6 @@ Open to developer roles alongside client work.
 
 ---
 
-## Working with AI
-
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=flat&logo=cursor&logoColor=white)
-
-I work with Claude Code daily. I handle the architecture, logic, and design decisions, then review, test, and debug what gets built.
-
----
-
 ## Tech Stack
 
 ### Languages
@@ -38,6 +30,9 @@ I work with Claude Code daily. I handle the architecture, logic, and design deci
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white) ![SFTP](https://img.shields.io/badge/SFTP-008080?style=flat&logo=serverfault&logoColor=white)
 
+### AI Tools
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=flat&logo=cursor&logoColor=white)
+
 ### Also worked with
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
@@ -46,12 +41,3 @@ I work with Claude Code daily. I handle the architecture, logic, and design deci
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/evie-wilcock) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eviewilcock01@gmail.com)
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eviesw&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eviesw&layout=compact&theme=radical)
-
