@@ -1,6 +1,6 @@
 # Evie Wilcock
 
-Full-stack developer with a MERN foundation. Since 2026 I build and maintain the website of a Berlin non-profit: a custom WordPress theme, plugins that automate a public grant process from online form to decision letter, and admin tooling that non-technical colleagues can use on their own. I care about accessible, modular code.
+Full-stack developer with a MERN foundation. I currently build and maintain the website of a Berlin non-profit, including a custom WordPress theme, plugins that automate a public grant process from online form to decision letter, and admin tooling that non-technical colleagues can use on their own. I care about accessible, modular code.
 
 Open to developer roles alongside client work.
 
