@@ -1,6 +1,6 @@
 # Evie Wilcock
 
-Full-stack developer with a MERN foundation, currently working freelance on WordPress builds, custom plugins, and internal tooling for a Berlin non-profit. I care about accessible, modular code.
+Full-stack developer with a MERN foundation, currently working on WordPress builds, custom plugins, and internal tooling for a Berlin non-profit. I care about accessible, modular code.
 
 Open to developer roles alongside client work.
 
