@@ -10,7 +10,7 @@ Open to developer roles alongside client work.
 
 ## About
 
-→ **Sample of my work**: [Deutscher Familienverband]((https://dfv-berlin.de/))  
+→ **Sample of my work**: [Deutscher Familienverband](https://dfv-berlin.de/)  
 → **Currently building**: custom WordPress plugins, a subsidy calculator, and automation tooling  
 → Originally from Manchester, UK
 
