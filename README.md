@@ -12,7 +12,7 @@ Open to developer roles alongside client work.
 
 → **Sample of my work**: [Deutscher Familienverband](https://dfv-berlin.de/) (theme, three plugins and the admin tooling, relaunched September 2026)  
 → **Recently shipped**: a grant application plugin with a 10-status review workflow and eight auto-generated PDF and Excel documents  
-→ **Currently working on**: maintenance, DSGVO details and colleague-proof admin UX  
+→ **Currently working on**: online appointment booking and an online counselling platform for the debt advice service, plus ongoing maintenance
 → Originally from Manchester, UK
 
 ---
